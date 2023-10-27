@@ -1,7 +1,7 @@
 # Recuperar-Senha
 Recuperar senha por token enviado em email.
 
-#Requisitos:
+# Requisitos:
 Será necessário instalar o PHPMailer no projeto. Siga o passo a passo:
 * 1 - Instale o composer em getcomposer.org
 * 2 - Crie um arquivo composer.json no diretório do seu projeto:
